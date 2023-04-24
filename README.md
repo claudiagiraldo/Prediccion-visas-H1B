@@ -19,5 +19,6 @@ Finalmente se ejecutan los siguientes comandos:
     ! data = pd.read_csv('H-1B_Disclosure_Data_FY17.csv', delimiter=',', nrows = nfilas_previas)
 
 
+[Vídeo primera entrega](https://youtu.be/s1mlCKBJMPo)
 
 
