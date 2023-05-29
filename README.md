@@ -11,7 +11,7 @@ Los datos del proyecto vienen de [este dataset de Kaggle](https://www.kaggle.com
 3. Ejecutar la celda #Carga de datos, este código se conectará con el dataset subido a este mismo repositorio y podrá ejecutar cualquier notebook sin necesidad de subir ningún archivo a Colab.
 
 
-[Vídeo primera entrega](https://youtu.be/s1mlCKBJMPo)
-[Vídeo primera entrega](https://www.youtube.com/watch?v=_Tzt2K3tQFE)
+[Vídeo segunda entrega](https://youtu.be/s1mlCKBJMPo)
+[Vídeo entrega final](https://www.youtube.com/watch?v=_Tzt2K3tQFE)
 
 
