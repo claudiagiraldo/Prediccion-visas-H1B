@@ -12,5 +12,6 @@ Los datos del proyecto vienen de [este dataset de Kaggle](https://www.kaggle.com
 
 
 [Vídeo primera entrega](https://youtu.be/s1mlCKBJMPo)
+[Vídeo primera entrega](https://www.youtube.com/watch?v=_Tzt2K3tQFE)
 
 
